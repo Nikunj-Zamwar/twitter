@@ -1,6 +1,6 @@
 # Project 3 - *Tweets*
 
-*Tweets** is a basic twitter app to read your tweets.
+**Tweets** is a basic twitter app to read your tweets.
 
 Time spent: **4** hours spent in total
 
